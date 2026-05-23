@@ -1,4 +1,6 @@
 # 📈 Stock Price Prediction using Transformer & Federated Learning
+
+ **Live Demo:** https://yashika-stock-prediction.streamlit.app/
  A privacy-preserving deep learning framework for financial forecasting using Transformer architecture and Federated Averaging (FedAvg) — tested on real Indian stock market data.
 
  **Abstrac**t:
